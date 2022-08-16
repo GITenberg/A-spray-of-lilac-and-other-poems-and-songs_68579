@@ -1,0 +1,32 @@
+_repo: A-spray-of-lilac-and-other-poems-and-songs_68579
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hedderwick-Browne, M. (Marie)
+    aliases:
+    - Browne, Marie Hedderwick
+    - Hedderwick-Browne, Marie
+    gutenberg_agent_id: '54838'
+    url: http://www.gutenberg.org/2009/agents/54838
+description: ''
+gutenberg_issued: '2022-07-21'
+identifiers:
+  gutenberg: '68579'
+language: en
+pgterms:marc904: https://archive.org/details/sprayoflilacothe00hedd/page/n3/mode/2up
+pgterms:marc905: 20220126205310browne
+pgterms:marc906: '1892'
+pgterms:marc907: GB
+production_note: Charlene Taylor, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United Kingdom :Isbister and Company Limited,1892.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- 19th century'
+- GITenberg
+title: A spray of lilac, and other poems and songs
+url: http://www.gutenberg.org/ebooks/68579
