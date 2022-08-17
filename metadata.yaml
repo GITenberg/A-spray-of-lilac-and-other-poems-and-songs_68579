@@ -1,5 +1,8 @@
 _repo: A-spray-of-lilac-and-other-poems-and-songs_68579
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68579-h/images/cover.jpg
 creator:
   author:
     agent_name: Hedderwick-Browne, M. (Marie)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '54838'
     url: http://www.gutenberg.org/2009/agents/54838
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68579#A-spray-of-lilac-and-other-poems-and-songs
 gutenberg_issued: '2022-07-21'
 identifiers:
   gutenberg: '68579'
